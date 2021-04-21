@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "qhsYkH4Um",
+      "firstName": "Travus",
+      "lastName": "Vakhlov",
+      "email": "tvakhlov0@canalblog.com",
+      "password": "ZNdKODM",
+      "phone": "776-115-0277",
+      "username": "Travus Vakhlov",
+      "role": "AFFIFLATE"
+    },
+    {
+      "id": "Wkij6D",
+      "firstName": "Zaneta",
+      "lastName": "Megson",
+      "email": "zmegson1@gov.uk",
+      "password": "BLaw7l",
+      "phone": "983-313-5015",
+      "username": "Zaneta Megson",
+      "role": "ADMIN"
+    },
+    {
+      "id": "mXynFYq",
+      "firstName": "Reece",
+      "lastName": "Stannah",
+      "email": "rstannah2@hubpages.com",
+      "password": "jcDdfCnWNu",
+      "phone": "372-467-4514",
+      "username": "Reece Stannah",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "f9aHUmWb2R",
+      "firstName": "Jaquenette",
+      "lastName": "Macveigh",
+      "email": "jmacveigh3@fastcompany.com",
+      "password": "X5BuJKb",
+      "phone": "920-852-1020",
+      "username": "Jaquenette Macveigh",
+      "role": "AFFIFLATE"
+    },
+    {
+      "id": "355Rhb6tX",
+      "firstName": "Morlee",
+      "lastName": "Guynemer",
+      "email": "mguynemer4@github.io",
+      "password": "zXm6s0R",
+      "phone": "840-157-9942",
+      "username": "Morlee Guynemer",
+      "role": "ADMIN"
+    },
+    {
+      "id": "kelglHshis",
+      "firstName": "Smitty",
+      "lastName": "Feilden",
+      "email": "sfeilden5@livejournal.com",
+      "password": "0mlEJB9Miyvm",
+      "phone": "594-175-2333",
+      "username": "Smitty Feilden",
+      "role": "CUSTOMER"
+    }
+  ]
+}
