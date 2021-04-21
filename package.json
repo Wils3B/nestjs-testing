@@ -2,7 +2,7 @@
   "name": "nest-testing",
   "version": "1.0.0",
   "description": "Nest Application With testing example",
-  "license": "GPL 3.0",
+  "license": "GPL-3.0",
   "scripts": {
     "start": "nest start --watch",
     "test": "jest",
